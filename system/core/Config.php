@@ -76,7 +76,7 @@ class CI_Config {
 
 			else
 			{
-				$base_url = 'www.ideaofstyle.tk/';
+				$base_url = 'http://www.ideaofstyle.tk/';
 			}
 
 			$this->set_item('base_url', $base_url);

@@ -19,9 +19,9 @@ function createList(){
 <body>
 <div class="row">
 <center>
-<img src="www.ideaofstyle.tk/idea_of_style/assests/logo.png">
+<img src="http://www.ideaofstyle.tk/idea_of_style/assests/logo.png">
 </center>
-<form action="www.ideaofstyle.tk/idea_of_style/index.php/home/add_bill" method="post">
+<form action="http://www.ideaofstyle.tk/idea_of_style/index.php/home/add_bill" method="post">
 <div class="col-xs-12 " >
   <div class="form-group ">
     <input type="name" class="form-control" name="name" placeholder="Name">

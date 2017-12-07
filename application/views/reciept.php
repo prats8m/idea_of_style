@@ -105,7 +105,7 @@
     			<div class="receipt-header">
 					<div class="col-xs-6 col-sm-6 col-md-6">
 						<div class="receipt-left">
-							<img class="img-responsive" alt="iamgurdeeposahan" src="www.ideaofstyle.tk/idea_of_style/assests/logo.png" style="width: 130px; border-radius: 50px;">
+							<img class="img-responsive" alt="iamgurdeeposahan" src="http://www.ideaofstyle.tk/idea_of_style/assests/logo.png" style="width: 130px; border-radius: 50px;">
 						</div>
 					</div>
 					<div class="col-xs-6 col-sm-6 col-md-6 text-right">
