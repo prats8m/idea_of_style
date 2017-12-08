@@ -29,8 +29,18 @@ Class Home extends CI_CONTROLLER {
    }
 
 public function index(){
-    $this->load->view('home');
+    $this->load->view('index');
 }
+
+public function bill(){
+    $this->load->view('bill');
+}
+
+public function order(){
+    $this->load->view('order');
+}
+
+
   public function add_bill(){
       $item = array();
       $quantity = array();
